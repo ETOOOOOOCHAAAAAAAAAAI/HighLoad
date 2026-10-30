@@ -1,0 +1,14 @@
+# GoLand / JetBrains IDE
+.idea/
+
+# Скомпилированные бинарники и тесты
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Локальные конфиги
+.env
